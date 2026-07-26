@@ -105,14 +105,6 @@ POST /meeting
 │   ├── workflow.png
 │   └── architecture.png
 │
-├── screenshots
-│   ├── workflow.png
-│   ├── webhook-test.png
-│   ├── ai-summary.png
-│   ├── action-items.png
-│   ├── notion-page.png
-│   └── success-response.png
-│
 └── sample
     ├── request.json
     └── response.json
@@ -120,15 +112,6 @@ POST /meeting
 
 ---
 
-## 📸 Screenshots
-
-| Workflow | Notion |
-|----------|---------|
-| Workflow Overview | Generated Meeting Notes |
-| AI Summary | Action Items |
-| Webhook Test | API Response |
-
----
 
 ## 💡 Example Output
 
