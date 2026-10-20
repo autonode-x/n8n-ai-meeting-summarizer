@@ -1,6 +1,7 @@
 {
-    "success":true,
-    "meeting":"Weekly Sales Meeting",
-    "date":"2026-07-21",
-    "status":"Saved to Notion"
+  "success": true,
+  "status": "saved",
+  "request_id": "DEMO-MEETING-2026-001",
+  "page_id": "00000000000000000000000000000001",
+  "page_url": "https://www.notion.so/example/00000000000000000000000000000001"
 }

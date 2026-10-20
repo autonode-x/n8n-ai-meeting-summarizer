@@ -1,5 +1,6 @@
 {
-    "meeting_title":"Weekly Sales Meeting",
-    "date":"2026-07-21",
-    "transcript":"John discussed sales targets. Sarah will prepare the report by Friday. Rahul will update the CRM."
+  "request_id": "DEMO-MEETING-2026-001",
+  "meeting_title": "Example Project Check-in",
+  "date": "2026-10-18",
+  "transcript": "Speaker A: We reviewed the demo milestones. Speaker B: I will prepare a draft plan by Friday."
 }
